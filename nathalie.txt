@@ -1,10 +1,23 @@
-In the 5th generation the totals start after 250. Almost every generation falls short on generations after a total of 600.
+Pokemon
+In the 5th generation the totals start after 250. Almost every generation falls short on generations after a
+total of 600.
 The average defense-score is 73.8.
 
 
 VIZ
 
-
+1. I would like to calculate the average of births each year.
+2. I would like to know the average of births in all of the given years combined.
+3. I would like to calculate the day of the week where the biggest amounts of births on average took place.
 
 DATA 
-test test
+
+1. sum up all of the births that took place that year and divide it by the amount of numbers that you summed up.
+use mean()
+2. sum up all of the averages of the births that took place over the years and divide what you summed
+up by the amount of years you took.
+use mean()
+3. calculate the average of the days of the week and compare them, the highest one is the one with the biggest amount
+of births on average that day of the week.
+use mean()
+
