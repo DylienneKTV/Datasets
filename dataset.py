@@ -16,7 +16,7 @@ dfs = setje['Defense']
 
 # programme
 
- plt.xlabel('total')
+plt.xlabel('total')
 plt.ylabel('generation')
 # plt.scatter(total, generation)
 # plt.show()
