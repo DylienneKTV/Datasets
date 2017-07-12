@@ -1,0 +1,8 @@
+In the 5th generation the totals start after 250. Almost every generation falls short on generations after a total of 600.
+The average defense-score is 73.8.
+
+
+VIZ
+
+
+DATA 
