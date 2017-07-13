@@ -74,8 +74,13 @@ print(f)
 # total = np.sum(US_births)
 # print(total)
 
-births_2000 = []
-for i in "US_births_2000-2014.csv":
-    found = i in "US_births_2000-2014.csv"
+births_2000 = [
+    "US_births_2000-2014.csv"[0:368]
+]
+for i in "US_births_2000-2014.csv"[0:368]:
+    found = i in "US_births_2000-2014.csv"[0:368]
     births_2000.append(found)
 print(births_2000)
+
+sum_births_2000 = sum("births_2000")
+print(type(sum_births_2000))
