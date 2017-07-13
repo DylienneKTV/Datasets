@@ -10,7 +10,7 @@ VIZ
 2. I would like to know the average of births in all of the given years combined.
 3. I would like to calculate the day of the week where the biggest amounts of births on average took place.
 
-DATA 
+DATA
 
 1. sum up all of the births that took place that year and divide it by the amount of numbers that you summed up.
 use mean()
@@ -20,4 +20,12 @@ use mean()
 3. calculate the average of the days of the week and compare them, the highest one is the one with the biggest amount
 of births on average that day of the week.
 use mean()
+
+
+new
+- create for loop to print all entries of 1 column
+- get a mini dataset and merge dataframes
+- print statements with results of your calculations
+
+print statements using variables with modulo (oftewel gebruik van procent)
 
